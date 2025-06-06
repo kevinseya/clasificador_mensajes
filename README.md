@@ -3,6 +3,7 @@
 ## Descripción
 Aplicación web para clasificar mensajes de texto en categorías de prioridad (Urgente, Normal, Moderado) utilizando inteligencia artificial.
 
+![Captura de pantalla 2025-06-06 151824](https://github.com/user-attachments/assets/8d7428a1-2670-4c5b-bd20-b84417040385)
 
 
 ## 🚀 Características
